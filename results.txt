@@ -1,3 +1,4 @@
-[32m✓ http://fitgirl-repacks.site/ — Title: "FitGirl Repacks - The ONLY official site for FitGirl Repacks. Every single FG repack installer has a link inside, which leads here. Do not fall for fake and scam sites, which are using my name." (⏱ 1.2390201s)[0m
+[31m✗ https://notarealwebsite.bogus — ERROR: Get "https://notarealwebsite.bogus": dial tcp: lookup notarealwebsite.bogus: no such host (⏱ 15.8558ms)[0m
+[32m✓ https://github.com — Title: "GitHub · Build and ship software on a single, collaborative platform · GitHub" (⏱ 118.1536ms)[0m
 
-All done in 1.2401531s
+All done in 118.732ms
