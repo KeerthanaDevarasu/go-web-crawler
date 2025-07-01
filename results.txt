@@ -1,4 +1,52 @@
-[31m✗ https://notarealwebsite.bogus — ERROR: Get "https://notarealwebsite.bogus": dial tcp: lookup notarealwebsite.bogus: no such host (⏱ 15.8558ms)[0m
-[32m✓ https://github.com — Title: "GitHub · Build and ship software on a single, collaborative platform · GitHub" (⏱ 118.1536ms)[0m
+[32m✓ https://www.geeksforgeeks.org/javascript/javascript-comments/ —
+Title: "JavaScript Comments - GeeksforGeeks"
+Description: "Your All-in-One Learning Portal: GeeksforGeeks is a comprehensive educational platform that empowers learners across domains-spanning computer science and programming, school education, upskilling, commerce, software tools, competitive exams, and more."
+Links found: 297
+(⏱ 113.1648ms)[0m
+[32m✓ https://www.geeksforgeeks.org/ —
+Title: "GeeksforGeeks | Your All-in-One Learning Portal"
+Description: "Your All-in-One Learning Portal. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions."
+Links found: 190
+(⏱ 22.2278ms)[0m
+[32m✓ https://www.geeksforgeeks.org/javascript/introduction-to-javascript/ —
+Title: "Introduction to JavaScript - GeeksforGeeks"
+Description: "Your All-in-One Learning Portal: GeeksforGeeks is a comprehensive educational platform that empowers learners across domains-spanning computer science and programming, school education, upskilling, commerce, software tools, competitive exams, and more."
+Links found: 360
+(⏱ 30.0116ms)[0m
+[32m✓ https://www.geeksforgeeks.org/courses/interviewe-101-data-structures-algorithm-system-design —
+Title: "Tech Interview 101 - From DSA to System Design for Working Professionals"
+Description: "Why do Professionals in Software Engineering often struggle to create efficient and scalable systems?Well, the solution lies in integrating DSA principles effectively into real-world System Design scenarios. If you want to learn this in order to crack the Tech Giants, register now!!!"
+Links found: 137
+(⏱ 36.9262ms)[0m
+[32m✓ https://www.geeksforgeeks.org/courses/category/ibm-certification/ —
+Title: "IBM-CERTIFICATION Courses | GeeksforGeeks"
+Description: "Platform to practice programming problems. Solve company interview questions and improve your coding intellect"
+Links found: 135
+(⏱ 46.401ms)[0m
+[32m✓ https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide/ —
+Title: "DSA to Development:A Complete Guide"
+Description: "Platform to practice programming problems. Solve company interview questions and improve your coding intellect"
+Links found: 5
+(⏱ 49.2111ms)[0m
+[32m✓ https://www.geeksforgeeks.org/courses/category/gate/ —
+Title: "GATE CSE & DA Classroom & Live Online Courses [2026, 2027, 2028]"
+Description: "Prepare for GATE Computer Science & GATE DA with our Classroom and Live Online Courses for 2026, 2027, and 2028. Expert guidance, interactive sessions, and comprehensive resources to help you crack GATE exam."
+Links found: 135
+(⏱ 280.8662ms)[0m
+[32m✓ https://www.geeksforgeeks.org/courses/full-stack-applied-data-science-program/ —
+Title: "Data Science Training Program"
+Description: "Unlock the world of data science with our Data Science Certification Training Program. Explore Machine Learning, Deep Learning, LLMs, LangChains, GenAI its application in modern AI, and much more in this comprehensive course."
+Links found: 136
+(⏱ 302.3928ms)[0m
+[32m✓ https://www.geeksforgeeks.org/problem-of-the-day —
+Title: "Problem of the Day | GeeksforGeeks | A computer science portal for geeks"
+Description: "Solve one problem based on Data Structures and Algorithms every day and win exciting prizes."
+Links found: 141
+(⏱ 467.5743ms)[0m
+[32m✓ https://www.geeksforgeeks.org/courses/Java-backend-live/ —
+Title: "JAVA Backend Development - Live"
+Description: "The JAVA Backend Development - Live course is designed to teach you how to build powerful and efficient backend systems using Java. This extensive Java Backend Development course is a 12-week guided program to equip you with the right skills and make you interview-ready. Not only this, get hands-on experience in building web apps like e-wallets, movie ticket booking, etc."
+Links found: 136
+(⏱ 1.356741s)[0m
 
-All done in 118.732ms
+All done in 1.4793102s
